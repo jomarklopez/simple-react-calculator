@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# A Simple Calculator made with ReactJS 
+For the demo visit this link: https://jomarklopez.github.io/simple-react-calculator/
+
 ## Available Scripts
 
 In the project directory, you can run:
